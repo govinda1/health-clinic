@@ -8,7 +8,10 @@ public class Doctor {
 	private String doc_speciality;
 	private String doc_city;
 	private String doc_state;
-	private Integer doc_ph;
+	private String doc_ph;
+	private String doc_email;
+	
+
 	public Integer getDoc_id() {
 		return doc_id;
 	}
@@ -45,14 +48,21 @@ public class Doctor {
 	public void setDoc_state(String doc_state) {
 		this.doc_state = doc_state;
 	}
-	public Integer getDoc_ph() {
+	public String getDoc_ph() {
 		return doc_ph;
 	}
-	public void setDoc_ph(Integer doc_ph) {
+	public void setDoc_ph(String doc_ph) {
 		this.doc_ph = doc_ph;
 	}
 
 	
+	//Added new field to the table on 3/13/2019 to introduce email to doctor functionality
+	public String getDoc_email() {
+		return doc_email;
+	}
+	public void setDoc_email(String doc_email) {
+		this.doc_email = doc_email;
+	}
 	
 	
 }

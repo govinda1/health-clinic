@@ -1,9 +1,15 @@
 com\sample\web\dao\UserDao.class
+com\sample\web\controller\DoctorController.class
 com\sample\web\controller\LoginController.class
+com\sample\web\model\Doctor.class
+com\sample\web\dao\UserDaoImpl$UserMapper.class
+com\sample\web\service\UserServiceImpl.class
+com\sample\web\service\DoctorServiceImpl.class
+com\sample\web\service\DoctorService.class
+com\sample\web\dao\DoctorDaoImpl.class
 com\sample\web\dao\UserDaoImpl.class
 com\sample\web\model\Login.class
-com\sample\web\dao\UserDaoImpl$UserMapper.class
+com\sample\web\dao\DoctorDao.class
 com\sample\web\model\User.class
 com\sample\web\controller\RegistrationController.class
-com\sample\web\service\UserServiceImpl.class
 com\sample\web\service\UserService.class

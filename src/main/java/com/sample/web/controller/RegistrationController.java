@@ -35,6 +35,6 @@ public class RegistrationController {
 	  return new ModelAndView("welcome", "firstname", user.getFirstname());
 	  }
 	
-	
+	 
 	
 }

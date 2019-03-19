@@ -14,6 +14,8 @@
                 </td>
                 <td><a href="register">Register</a>
                 </td>
+                <td><a href="doctorInfo">Doctor Info</a>
+                </td>
             </tr>
         </table>
     </body>

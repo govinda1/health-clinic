@@ -1,8 +1,14 @@
+C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\dao\DoctorDaoImpl.java
 C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\controller\LoginController.java
 C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\service\UserServiceImpl.java
+C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\model\Login.java
+C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\controller\DoctorController.java
+C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\controller\RegistrationController.java
+C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\service\DoctorService.java
+C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\service\DoctorServiceImpl.java
 C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\dao\UserDao.java
 C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\dao\UserDaoImpl.java
 C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\service\UserService.java
-C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\model\Login.java
+C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\model\Doctor.java
+C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\dao\DoctorDao.java
 C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\model\User.java
-C:\Users\gdhirde\Documents\Eclipse\workspace\java-web-project\src\main\java\com\sample\web\controller\RegistrationController.java

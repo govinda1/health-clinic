@@ -40,6 +40,7 @@ public class UserDaoImpl implements UserDao {
 		
 		return users.size() > 0 ? users.get(0) : null;
 	}
+	
 
 	class UserMapper implements RowMapper<User> {
 		public User mapRow(ResultSet rs, int arg1) throws SQLException {
@@ -50,7 +51,7 @@ public class UserDaoImpl implements UserDao {
 			user.setLastname(rs.getString("lastname"));
 			user.setEmail(rs.getString("email"));
 			user.setAddress(rs.getString("address"));
-			user.setPhone(rs.getInt("phone"));
+			user.setPhone(rs.getString("phone"));
 			return user;
 		} 
 	}

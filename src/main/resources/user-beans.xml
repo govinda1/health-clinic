@@ -4,6 +4,8 @@
     <context:annotation-config />
     <bean id="userService" class="com.sample.web.service.UserServiceImpl" />
     <bean id="userDao" class="com.sample.web.dao.UserDaoImpl" />
+    <bean id="doctorService" class="com.sample.web.service.DoctorServiceImpl" />
+    <bean id="doctorDao" class="com.sample.web.dao.DoctorDaoImpl" />
     <bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
         <property name="dataSource" ref="datasource" />
     </bean>
